@@ -1,12 +1,12 @@
 ## **İçerik:**
 1. [Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#-margin-ve-padding-tan%C4%B1mlamalar%C4%B1-)
-   -Toplam Margin ve Padding
-   -Dikey Margin ve Padding
-   -Yatay Margin ve Padding
-   -Top Margin ve Padding
-   -Right Margin ve Padding
-   -Bottom Margin ve Padding
-   -Left Margin ve Padding
+   -[Toplam Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#toplam-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Dikey Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#dikey-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Yatay Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#yatay-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Top Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#top-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Right Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#right-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Bottom Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#bottom-margin-ve-padding-kullan%C4%B1m%C4%B1)
+   -[Left Margin ve Padding] (https://github.com/Mtemizce/CssColors/blob/master/README.md#left-margin-ve-padding-kullan%C4%B1m%C4%B1)
    
 2. [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
    -[Yazı Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#yaz%C4%B1-%C3%96rnek)
@@ -42,6 +42,8 @@ Verilen sayısal değerler şu şekilde: 0-5-10-15-20-30-40-50-60
 ```
 
 ## **Normal Margin ve Padding kullanımı:**
+ Margin ve Padding i tek yönde de kullanabilirsiniz. Bunun için aşağıdaki örnekleri inceleyin.
+ 
 ## **Top Margin ve Padding kullanımı:**
  ```
  <div class="mar-t-30">Margin Top 30px Uygulandı</div>
