@@ -1,4 +1,4 @@
-###Css, Html ve türeleri için ufak tefek yardımcı konular###
+### Css, Html ve türeleri için ufak tefek yardımcı konular 
 
 **CSS Renkler:**
 Author: Mehmet Temizce
@@ -29,20 +29,20 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)
 
 **Renk Listesi ve Tanımlamalar**
  ```
- - Red: #FF0000
- - Blue: #0000FF
- - Orange: #FFA500
- - Yellow: #FFFF00
- - Black: #000000
- - White: #FFFFFF
- - Gray: #808080
- - Green: #008000
- - Purple: #800080
- - Olive: #556B2F
- - Begie: #F5F5DC
- - Pink: #FFC0CB
- - Indigo: #6574CD
- - Teal: #4DC0B5
- - Brown: #5D4037
- - Bluegray: #78909c
+ - Red:		#FF0000
+ - Blue:		#0000FF
+ - Orange:	#FFA500
+ - Yellow:	#FFFF00
+ - Black:	#000000
+ - White:	#FFFFFF
+ - Gray:		#808080
+ - Green:	#008000
+ - Purple:	#800080
+ - Olive:	#556B2F
+ - Begie:	#F5F5DC
+ - Pink:		#FFC0CB
+ - Indigo:	#6574CD
+ - Teal:		#4DC0B5
+ - Brown:	#5D4037
+ - Bluegray:	#78909c
 ```
