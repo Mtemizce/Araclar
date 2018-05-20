@@ -1,3 +1,15 @@
+**İçerik:**
+1- Margin ve Padding
+2- [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
+   - [Yazı Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#yaz%C4%B1-%C3%96rnek)
+   - [Arkaplan Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#arkaplan-%C3%96rnek)
+   - [Koyu ve açık ton renk uygulaması](https://github.com/Mtemizce/CssColors/blob/master/README.md#koyu-ve-a%C3%A7%C4%B1k-ton-renk-uygulamas%C4%B1)
+   - [Renk Listesi](https://github.com/Mtemizce/CssColors/blob/master/README.md#renk-listesi-ve-tan%C4%B1mlamalar)
+   
+
+### ** Margin ve Padding Tanımlamaları **
+
+
 ### **CSS Renkler:**
 Kendi projelerimde kullanmak için less olarak hazırlayıp css compile etmiştim ama fazla bu işe vakit ayrırmak istemeyen arkadaşlarımız için css compile halini paylaşıyorum. Zor değil herkesin yapabileceği şeyler ama olur ya uğraşmak istemeynde çıkabilir.<br>
 Renkleri Normal, 20% Koyu ve 10% Açık olarak 3 kısma ayırdım. Yazı ve Arkaplan olarak 2 kısımdır.<br>
