@@ -1,0 +1,91 @@
+/* Renk Tanımlamaları Yazı ve Arkaplan için tüm tanımlamalar yapıldı */
+.txt-red {color: #FF0000 !important;}
+.bg-red {background-color: #FF0000 !important;}
+.txt-blue {color: #0000FF !important;}
+.bg-blue {background-color: #0000FF !important;}
+.txt-orange {color: #FFA500 !important;}
+.bg-orange {background-color: #FFA500 !important;}
+.txt-yellow {color: #FFFF00 !important;}
+.bg-yellow {background-color: #FFFF00 !important;}
+.txt-black {color: #000000 !important;}
+.bg-black{background-color:#000000 !important ;}
+.txt-white {color: #FFFFFF !important;}
+.bg-white{background-color: #FFFFFF !important;}
+.txt-gray {color: #808080 !important;}
+.bg-gray{background-color: #808080 !important;}
+.txt-green {color: #008000 !important;}
+.bg-green{background-color:#008000  !important;}
+.txt-purple {color: #800080 !important;}
+.bg-purple{background-color:#800080 !important ;}
+.txt-olive {color: #556B2F !important;}
+.bg-olive{background-color: #556B2F !important;}
+.txt-begie {color: #F5F5DC !important;}
+.bg-begie{background-color: #F5F5DC !important;}
+.txt-pink {color: #FFC0CB !important;}
+.bg-pink{background-color: #FFC0CB !important;}
+.txt-indigo {color: #6574CD !important;}
+.bg-indigo{background-color: #6574CD !important;}
+.txt-teal {color: #4DC0B5 !important;}
+.bg-teal{background-color: #4DC0B5 !important;}
+.txt-brown {color: #5D4037 !important;}
+.bg-brown{background-color: #5D4037 !important;}
+.txt-bluegray {color: #78909c !important;}
+.bg-bluegray{background-color: #78909c !important;}
+/* Renkleri 20% koyu tona getiriyoruz */
+.txt-dark-red {color: #990000 !important;}
+.bg-dark-red{background-color: #990000 !important;}
+.txt-dark-blue {color: #000099 !important;}
+.bg-dark-blue{background-color: #000099 !important;}
+.txt-dark-orange {color: #996300 !important;}
+.bg-dark-orange{background-color: #996300 !important;}
+.txt-dark-yellow {color: #999900 !important;}
+.bg-dark-yellow{background-color: #999900 !important;}
+.txt-dark-white {color: #cccccc !important;}
+.bg-dark-white{background-color: #cccccc !important;}
+.txt-dark-gray {color: #4d4d4d !important;}
+.bg-dark-gray{background-color: #4d4d4d !important;}
+.txt-dark-green {color: #001a00 !important;}
+.bg-dark-green{background-color: #001a00 !important;}
+.txt-dark-purple {color: #1a001a !important;}
+.bg-dark-purple{background-color: #1a001a !important;}
+.txt-dark-olive {color: #1d2410 !important;}
+.bg-dark-olive{background-color: #1d2410 !important;}
+.txt-dark-begie {color: #dede8d !important;}
+.bg-dark-begie{background-color:#dede8d !important ;}
+.txt-dark-pink {color: #ff5a77 !important;}
+.bg-dark-pink{background-color: #ff5a77 !important;}
+.txt-dark-indigo {color: #32419a !important;}
+.bg-dark-indigo{background-color:#32419a !important ;}
+.txt-dark-teal {color: #2c7b74 !important;}
+.bg-dark-teal{background-color: #2c7b74 !important;}
+.txt-dark-brown {color: #1d1411 !important;}
+.bg-dark-brown{background-color: #1d1411 !important;}
+.txt-dark-bluegray {color: #4a5b64 !important;}
+.bg-dark-bluegray{background-color: #4a5b64 !important;}
+/* Renkleri 10% açık tona getiriyoruz */
+.txt-light-red {color: #ff3333 !important;}
+.bg-light-red{background-color: #ff3333 !important;}
+.txt-light-blue {color: #3333ff !important;}
+.bg-light-blue{background-color: #3333ff !important;}
+.txt-light-orange {color: #ffb733 !important;}
+.bg-light-orange{background-color:#ffb733  !important;}
+.txt-light-yellow {color: #ffff33 !important;}
+.bg-light-yellow{background-color: #ffff33 !important;}
+.txt-light-gray {color: #9a9a9a !important;}
+.bg-light-gray{background-color: #9a9a9a !important;}
+.txt-light-green {color: #00b300 !important;}
+.bg-light-green{background-color: #00b300 !important;}
+.txt-light-purple {color: #b300b3 !important;}
+.bg-light-purple{background-color:#b300b3 !important ;}
+.txt-light-olive {color: #718e3f !important;}
+.bg-light-olive{background-color:#718e3f !important ;}
+.txt-light-pink {color: #fff3f5 !important;}
+.bg-light-pink{background-color: #fff3f5 !important;}
+.txt-light-indigo {color: #8b97da !important;}
+.bg-light-indigo{background-color:#8b97da !important ;}
+.txt-light-teal {color: #73cdc5 !important;}
+.bg-light-teal{background-color:#73cdc5 !important ;}
+.txt-light-brown {color: #7d564a !important;}
+.bg-light-brown{background-color: #7d564a !important;}
+.txt-light-bluegray {color: #95a8b2 !important;}
+.bg-light-bluegray{background-color: #95a8b2 !important;}
