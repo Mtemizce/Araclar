@@ -84,6 +84,7 @@
 ```
 
 # **Css Renkler:**
+[Css dosyası için tıkla](color.css)<br>
 Kendi projelerimde kullanmak için less olarak hazırlayıp css compile etmiştim ama fazla bu işe vakit ayrırmak istemeyen arkadaşlarımız için css compile halini paylaşıyorum. Zor değil herkesin yapabileceği şeyler ama olur ya uğraşmak istemeynde çıkabilir.<br>
 Renkleri Normal, 20% Koyu ve 10% Açık olarak 3 kısma ayırdım. Yazı ve Arkaplan olarak 2 kısımdır.<br>
 Yazı olarak kullanmak için class kısmına txt-(renk ismi)<br>
@@ -108,7 +109,7 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)<br>
 ```
 
 > ### **Renk Listesi ve Tanımlamalar**
- ```
+ Renkler ve Hex kodları
  - Red:		#FF0000
  - Blue:		#0000FF
  - Orange:	#FFA500
@@ -125,4 +126,38 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)<br>
  - Teal:		#4DC0B5
  - Brown:	#5D4037
  - Bluegray:	#78909c
-```
+ 
+**Kodu parçalara bölerek tanımlayacak olursak:**
+ .txt <- Yazı başlangıcı
+ .bg <- Arkaplan başlangıcı
+ -dark <- Koyu tanımlama
+ -light <- açık tanımlama
+ -(renkismi) <-Renk tanımlama
+ 
+ **Örnek:**
+ .txt-dark-brown <- Koyu Kahverengi Yazı
+ .bg-light-pink <- Açık Pembe Arkaplan <br>
+ 
+ **Html Kullanımı:**
+ ```
+ <div class="txt-white bg-red">Beyaz Yazı ve Kırmızı Arkaplan</div>
+ ```
+ **Yazıların class isimleri şu şekilde:**
+ -red
+ -blue
+ -orange
+ -yellow
+ -black
+ -white
+ -gray
+ -green
+ -purple
+ -olive
+ -begie
+ -pink
+ -indigo
+ -teal
+ -brown
+ -bluegray
+ 
+ Esasında arkaplana zıt renkler üzerinde çalışıp tek class ile arkaplan ve ona uyumlu text rengini tanımlamak daha az yer kaplar (Örn:.red(background-color: red; color: white;) gibi) ve daha az kod elde ederiz. Fakat bu sonuçta tasarımdaki komple renk uyumu ile alakalı bir durum. Bunun içinde benim vaktim yok. İlerleyen zamanlarda geliştirilebilir. Belki bunun ile alakalı fonksiyon bile yazılabilir. öğeye atadığınız arkaplanı algılayıp zıt txt rengini class olarak ekleyen fonksiyonlar düşünülebilir.
