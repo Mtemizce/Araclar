@@ -16,7 +16,7 @@
    
 
 ### **Margin ve Padding Tanımlamaları**
-[Css dosyası için tıkla](docs/mar-pad.css)<br>
+[Css dosyası için tıkla](mar-pad.css)<br>
 Çoğumuz bootstrap gibi css framework kullanma taraftarı olsakta bi yanımız kendi framework hayalini kurar. Bazılarımızda bunun çok zaman alıcı olduğunu düşünerek vazgeçer. Vaktinizi almaması için hazır hali ile css şeklinde paylaştım umarım faydalı olur.
 
 **Verilen sayısal değerler şu şekilde:** 0-5-10-15-20-30-40-50-60<br>
@@ -28,7 +28,7 @@
  <div class="mar-0">Margin sıfırlandı</div>
  ```
  **Önemli!**
- Bunu uyguladığınız öğe otomatik olarak sola yapışır. Öğenin ortalanmış halde kalmasını istiyorsanız [mar-pad.css](docs/mar-pad.css) dosyasındaki aşağıdaki kodu bulun:
+ Bunu uyguladığınız öğe otomatik olarak sola yapışır. Öğenin ortalanmış halde kalmasını istiyorsanız [mar-pad.css](mar-pad.css) dosyasındaki aşağıdaki kodu bulun:
  ```
  .mar-0 {margin: 0px !important;}
  ```
@@ -41,19 +41,19 @@
    <div class="pad-0">Padding sıfırlandı</div>
  ```
   
-## **Toplam Margin ve padding kullanımı:**
+## **Toplam Margin ve Padding kullanımı:**
  ```
  <div class="mar-5">Toplam 5px Margin Uygulandı</div>
  <div class="pad-5">Toplam 5px Padding Uygulandı</div>
 ```
 
-## **Dikey Margin ve padding kullanımı:**
+## **Dikey Margin ve Padding kullanımı:**
  ```
  <div class="mar-y-10">Dikey 10px Margin Uygulandı</div>
  <div class="pad-y-10">Dikey 10px Padding Uygulandı</div>
 ```
 
-## **Yatay Margin ve padding kullanımı:**
+## **Yatay Margin ve Padding kullanımı:**
  ```
  <div class="mar-x-15">Yatay 15px Margin Uygulandı</div>
  <div class="pad-x-15">Yatay 15px Padding Uygulandı</div>
