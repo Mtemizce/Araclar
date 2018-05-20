@@ -1,4 +1,4 @@
-## **İçerik:**
+## **Fihrist:**
 **1.** [Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#-margin-ve-padding-tan%C4%B1mlamalar%C4%B1-)
    - [Toplam Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#toplam-margin-ve-padding-kullan%C4%B1m%C4%B1)
    - [Dikey Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#dikey-margin-ve-padding-kullan%C4%B1m%C4%B1)
@@ -22,7 +22,7 @@
 **Verilen sayısal değerler şu şekilde:** 0-5-10-15-20-30-40-50-60<br>
 4 tip kullanımı mevcut. **Toplam**, **Yatay**, **Dikey** ve **Top**, **Right**, **Bottom** ve **Left** şeklinde ayrı ayrı uygulamalar.<br>
 
-## **Margin ve Padding Sıfırlama:**
+# **Margin ve Padding Sıfırlama:**
  **Margin için sıfırlama şu şekilde:**
  ```
  <div class="mar-0">Margin sıfırlandı</div>
@@ -41,43 +41,43 @@
    <div class="pad-0">Padding sıfırlandı</div>
  ```
   
-## **Toplam Margin ve Padding kullanımı:**
+# **Toplam Margin ve Padding kullanımı:**
  ```
  <div class="mar-5">Toplam 5px Margin Uygulandı</div>
  <div class="pad-5">Toplam 5px Padding Uygulandı</div>
 ```
 
-## **Dikey Margin ve Padding kullanımı:**
+# **Dikey Margin ve Padding kullanımı:**
  ```
  <div class="mar-y-10">Dikey 10px Margin Uygulandı</div>
  <div class="pad-y-10">Dikey 10px Padding Uygulandı</div>
 ```
 
-## **Yatay Margin ve Padding kullanımı:**
+# **Yatay Margin ve Padding kullanımı:**
  ```
  <div class="mar-x-15">Yatay 15px Margin Uygulandı</div>
  <div class="pad-x-15">Yatay 15px Padding Uygulandı</div>
 ```
 
-## **Normal Margin ve Padding kullanımı:**
+# **Normal Margin ve Padding kullanımı:**
  Margin ve Padding i tek yönde de kullanabilirsiniz. Bunun için aşağıdaki örnekleri inceleyin.
  
-## **Top Margin ve Padding kullanımı:**
+# **Top Margin ve Padding kullanımı:**
  ```
  <div class="mar-t-20">Margin Top 20px Uygulandı</div>
  <div class="pad-t-20">Padding Top 20px Uygulandı</div>
 ```
-## **Right Margin ve Padding kullanımı:**
+# **Right Margin ve Padding kullanımı:**
  ```
  <div class="mar-r-30">Margin Right 30px Uygulandı</div>
  <div class="pad-r-30">Padding Right 30px Uygulandı</div>
 ```
-## **Bottom Margin ve Padding kullanımı:**
+# **Bottom Margin ve Padding kullanımı:**
  ```
  <div class="mar-b-40">Margin Bottom 40px Uygulandı</div>
  <div class="pad-b-40">Padding Bottom 40px Uygulandı</div>
 ```
-## **Left Margin ve Padding kullanımı:**
+# **Left Margin ve Padding kullanımı:**
  ```
  <div class="mar-l-50">Margin Left 50px Uygulandı</div>
  <div class="pad-l-60">Padding Left 60px Uygulandı</div>
@@ -89,17 +89,17 @@ Renkleri Normal, 20% Koyu ve 10% Açık olarak 3 kısma ayırdım. Yazı ve Arka
 Yazı olarak kullanmak için class kısmına txt-(renk ismi)<br>
 Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)<br> 
 
-## **Yazı Örnek:**
+# **Yazı Örnek:**
 ```
 <div class="txt-yellow">Sarı Renkli Yazı</div>
 ```
 
-## **Arkaplan Örnek**
+# **Arkaplan Örnek**
 ```
 <div class="bg-yellow">Sarı Arkaplanlı</div>
 ```
 
-## **Koyu ve açık ton renk uygulaması**
+# **Koyu ve açık ton renk uygulaması**
 ```
 <div class="txt-dark-yellow">Koyu Sarı Yazı</div>
 <div class="txt-light-yellow">Açık Sarı Yazı</div>
@@ -107,7 +107,7 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)<br>
 <div class="bg-dark-yellow">Koyu Sarı Arkaplan</div>
 ```
 
-## **Renk Listesi ve Tanımlamalar**
+# **Renk Listesi ve Tanımlamalar**
  ```
  - Red:		#FF0000
  - Blue:		#0000FF
