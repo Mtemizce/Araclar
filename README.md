@@ -143,21 +143,21 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)<br>
  <div class="txt-white bg-red">Beyaz Yazı ve Kırmızı Arkaplan</div>
  ```
  **Yazıların class isimleri şu şekilde:**
- -red
- -blue
- -orange
- -yellow
- -black
- -white
- -gray
- -green
- -purple
- -olive
- -begie
- -pink
- -indigo
- -teal
- -brown
- -bluegray
+ - -red
+ - -blue
+ - -orange
+ - -yellow
+ - -black
+ - -white
+ - -gray
+ - -green
+ - -purple
+ - -olive
+ - -begie
+ - -pink
+ - -indigo
+ - -teal
+ - -brown
+ - -bluegray
  
  Esasında arkaplana zıt renkler üzerinde çalışıp tek class ile arkaplan ve ona uyumlu text rengini tanımlamak daha az yer kaplar (Örn:.red(background-color: red; color: white;) gibi) ve daha az kod elde ederiz. Fakat bu sonuçta tasarımdaki komple renk uyumu ile alakalı bir durum. Bunun içinde benim vaktim yok. İlerleyen zamanlarda geliştirilebilir. Belki bunun ile alakalı fonksiyon bile yazılabilir. öğeye atadığınız arkaplanı algılayıp zıt txt rengini class olarak ekleyen fonksiyonlar düşünülebilir.
