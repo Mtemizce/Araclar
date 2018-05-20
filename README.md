@@ -19,10 +19,23 @@
 [Css dosyası için tıkla](docs/mar-pad.css)<br>
 Çoğumuz bootstrap gibi css framework kullanma taraftarı olsakta bi yanımız kendi framework hayalini kurar. Bazılarımızda bunun çok zaman alıcı olduğunu düşünerek vazgeçer. Vaktinizi almaması için hazır hali ile css şeklinde paylaştım umarım faydalı olur.
 
-Verilen sayısal değerler şu şekilde: 0-5-10-15-20-30-40-50-60
+**Verilen sayısal değerler şu şekilde:** 0-5-10-15-20-30-40-50-60
+4 tip kullanımı mevcut. **Toplam**, **Yatay**, **Dikey** ve **Top**, **Right**, **Bottom** ve **Left** şeklinde ayrı ayrı uygulamalar.<br>
 
-## **Margin kullanımı:**
- 4 tip kullanımı mevcut. Toplam, Yatay, Dikey ve ayrı ayrı uygulamalar.<br>
+## **Margin ve Padding Sıfırlama:**
+ Margin için:
+ ```
+ <div class="mar-0">Margin sıfırlandı</div>
+ ```
+ **Önemli!**
+ Bunu uyguladığınız öğe otomatik olarak sola yapışır. Öğenin ortalanmış halde kalmasını istiyorsanız [mar-pad.css](docs/mar-pad.css) dosyasındaki aşağıdaki kodu bulun:
+ ```
+ .mar-0 {margin: 0px !important;}
+ ```
+ **Şununla Değiştirin:**
+ ```
+ .mar-0 {margin: 0 auto !important;}
+ ```
 ## **Toplam Margin ve padding kullanımı:**
  ```
  <div class="mar-5">Toplam 5px Margin Uygulandı</div>
@@ -46,22 +59,22 @@ Verilen sayısal değerler şu şekilde: 0-5-10-15-20-30-40-50-60
  
 ## **Top Margin ve Padding kullanımı:**
  ```
- <div class="mar-t-30">Margin Top 30px Uygulandı</div>
- <div class="pad-t-30">Padding Top 30px Uygulandı</div>
+ <div class="mar-t-20">Margin Top 20px Uygulandı</div>
+ <div class="pad-t-20">Padding Top 20px Uygulandı</div>
 ```
 ## **Right Margin ve Padding kullanımı:**
  ```
- <div class="mar-r-40">Margin Right 40px Uygulandı</div>
- <div class="pad-r-40">Padding Right 40px Uygulandı</div>
+ <div class="mar-r-30">Margin Right 30px Uygulandı</div>
+ <div class="pad-r-30">Padding Right 30px Uygulandı</div>
 ```
 ## **Bottom Margin ve Padding kullanımı:**
  ```
- <div class="mar-b-50">Margin Bottom 50px Uygulandı</div>
- <div class="pad-b-50">Padding Bottom 50px Uygulandı</div>
+ <div class="mar-b-40">Margin Bottom 40px Uygulandı</div>
+ <div class="pad-b-40">Padding Bottom 40px Uygulandı</div>
 ```
 ## **Left Margin ve Padding kullanımı:**
  ```
- <div class="mar-l-60">Margin Left 60px Uygulandı</div>
+ <div class="mar-l-50">Margin Left 50px Uygulandı</div>
  <div class="pad-l-60">Padding Left 60px Uygulandı</div>
 ```
 
