@@ -1,10 +1,6 @@
 ### Css, Html ve türeleri için ufak tefek yardımcı konular 
 
 **CSS Renkler:**
-Author: Mehmet Temizce
-Web Site: http://www.analizci.ninja
-E-mail: mehmettemizce@hotmail.com.tr
-
 Renkleri Normal, Koyu ve Açık olarak 3 e bölerek Yazı ve Arkaplan olarak 2 alanda kullanıma sundum
 Yazı olarak kullanmak için class kısmına txt-(renk ismi)
 Arkaplan olarak kullanmak için class içerisine bg-(renk ismi) 
