@@ -1,6 +1,6 @@
-Css, Html ve türeleri için ufak tefek yardımcı konular
+###Css, Html ve türeleri için ufak tefek yardımcı konular###
 
-#CSS Renkler:
+**CSS Renkler:**
 Author: Mehmet Temizce
 Web Site: http://www.analizci.ninja
 E-mail: mehmettemizce@hotmail.com.tr
@@ -9,19 +9,17 @@ Renkleri Normal, Koyu ve Açık olarak 3 e bölerek Yazı ve Arkaplan olarak 2 a
 Yazı olarak kullanmak için class kısmına txt-(renk ismi)
 Arkaplan olarak kullanmak için class içerisine bg-(renk ismi) 
 
-#Yazı Örnek:
+**Yazı Örnek:**
 ```
-
 <div class="txt-yellow">Sarı Renkli Yazı</div>
-
 ```
 
-#Arkaplan Örnek
+**Arkaplan Örnek**
 ```
 <div class="bg-yellow">Sarı Arkaplanlı</div>
 ```
 
-#Koyu ve açık ton renk uygulaması
+**Koyu ve açık ton renk uygulaması**
 ```
 <div class="txt-dark-yellow">Koyu Sarı Yazı</div>
 <div class="txt-light-yellow">Açık Sarı Yazı</div>
@@ -29,22 +27,22 @@ Arkaplan olarak kullanmak için class içerisine bg-(renk ismi)
 <div class="bg-dark-yellow">Koyu Sarı Arkaplan</div>
 ```
 
-#Renk Listesi ve Tanımlamalar
+**Renk Listesi ve Tanımlamalar**
  ```
- - Red:#FF0000
+ - Red: #FF0000
  - Blue: #0000FF
- - Orange:	#FFA500
- - Yellow:	#FFFF00
- - Black:	#000000
- - White:	#FFFFFF
- - Gray:	#808080
- - Green:	#008000
- - Purple:	#800080
- - Olive:	#556B2F
- - Begie:	#F5F5DC
- - Pink:	#FFC0CB
- - Indigo:	#6574CD
- - Teal:	#4DC0B5
- - Brown:	#5D4037
- - Bluegray:#78909c
+ - Orange: #FFA500
+ - Yellow: #FFFF00
+ - Black: #000000
+ - White: #FFFFFF
+ - Gray: #808080
+ - Green: #008000
+ - Purple: #800080
+ - Olive: #556B2F
+ - Begie: #F5F5DC
+ - Pink: #FFC0CB
+ - Indigo: #6574CD
+ - Teal: #4DC0B5
+ - Brown: #5D4037
+ - Bluegray: #78909c
 ```
