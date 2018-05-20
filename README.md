@@ -1,14 +1,67 @@
-**İçerik:**
-1- Margin ve Padding
-2- [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
-   - [Yazı Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#yaz%C4%B1-%C3%96rnek)
-   - [Arkaplan Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#arkaplan-%C3%96rnek)
-   - [Koyu ve açık ton renk uygulaması](https://github.com/Mtemizce/CssColors/blob/master/README.md#koyu-ve-a%C3%A7%C4%B1k-ton-renk-uygulamas%C4%B1)
+## **İçerik:**
+1. [Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#-margin-ve-padding-tan%C4%B1mlamalar%C4%B1-)
+   -Toplam Margin ve Padding
+   -Dikey Margin ve Padding
+   -Yatay Margin ve Padding
+   -Top Margin ve Padding
+   -Right Margin ve Padding
+   -Bottom Margin ve Padding
+   -Left Margin ve Padding
+   
+2. [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
+   -[Yazı Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#yaz%C4%B1-%C3%96rnek)
+   -[Arkaplan Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#arkaplan-%C3%96rnek)
+   -[Koyu ve açık ton renk uygulaması](https://github.com/Mtemizce/CssColors/blob/master/README.md#koyu-ve-a%C3%A7%C4%B1k-ton-renk-uygulamas%C4%B1)
    - [Renk Listesi](https://github.com/Mtemizce/CssColors/blob/master/README.md#renk-listesi-ve-tan%C4%B1mlamalar)
    
 
 ### ** Margin ve Padding Tanımlamaları **
+[Css dosyası için tıkla](docs/mar-pad.css)<br>
+Çoğumuz bootstrap gibi css framework kullanma taraftarı olsakta bi yanımız kendi framework hayalini kurar. Bazılarımızda bunun çok zaman alıcı olduğunu düşünerek vazgeçer. Vaktinizi almaması için hazır hali ile css şeklinde paylaştım umarım faydalı olur.
 
+Verilen sayısal değerler şu şekilde: 0-5-10-15-20-30-40-50-60
+
+## **Margin kullanımı:**
+ 4 tip kullanımı mevcut. Toplam, Yatay, Dikey ve ayrı ayrı uygulamalar.<br>
+ ##**Toplam Margin ve padding kullanımı:**
+ ```
+ <div class="mar-5">Toplam 5px Margin Uygulandı</div>
+ <div class="pad-5">Toplam 5px Padding Uygulandı</div>
+```
+
+ ##**Dikey Margin ve padding kullanımı:**
+ ```
+ <div class="mar-y-10">Dikey 10px Margin Uygulandı</div>
+ <div class="pad-y-10">Dikey 10px Padding Uygulandı</div>
+```
+
+ ##**Yatay Margin ve padding kullanımı:**
+ ```
+ <div class="mar-x-15">Yatay 15px Margin Uygulandı</div>
+ <div class="pad-x-15">Yatay 15px Padding Uygulandı</div>
+```
+
+ ##**Normal Margin ve Padding kullanımı:**
+ ##**Top Margin ve Padding kullanımı:**
+ ```
+ <div class="mar-t-30">Margin Top 30px Uygulandı</div>
+ <div class="pad-t-30">Padding Top 30px Uygulandı</div>
+```
+ ##**Right Margin ve Padding kullanımı:**
+ ```
+ <div class="mar-r-40">Margin Right 40px Uygulandı</div>
+ <div class="pad-r-40">Padding Right 40px Uygulandı</div>
+```
+ ##**Bottom Margin ve Padding kullanımı:**
+ ```
+ <div class="mar-b-50">Margin Bottom 50px Uygulandı</div>
+ <div class="pad-b-50">Padding Bottom 50px Uygulandı</div>
+```
+ ##**Left Margin ve Padding kullanımı:**
+ ```
+ <div class="mar-l-60">Margin Left 60px Uygulandı</div>
+ <div class="pad-l-60">Padding Left 60px Uygulandı</div>
+```
 
 ### **CSS Renkler:**
 Kendi projelerimde kullanmak için less olarak hazırlayıp css compile etmiştim ama fazla bu işe vakit ayrırmak istemeyen arkadaşlarımız için css compile halini paylaşıyorum. Zor değil herkesin yapabileceği şeyler ama olur ya uğraşmak istemeynde çıkabilir.<br>
