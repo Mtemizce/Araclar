@@ -1,5 +1,5 @@
 ## **İçerik:**
-1. [Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#-margin-ve-padding-tan%C4%B1mlamalar%C4%B1-)
+**1.** [Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#-margin-ve-padding-tan%C4%B1mlamalar%C4%B1-)
    - [Toplam Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#toplam-margin-ve-padding-kullan%C4%B1m%C4%B1)
    - [Dikey Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#dikey-margin-ve-padding-kullan%C4%B1m%C4%B1)
    - [Yatay Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#yatay-margin-ve-padding-kullan%C4%B1m%C4%B1)
@@ -8,7 +8,7 @@
    - [Bottom Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#bottom-margin-ve-padding-kullan%C4%B1m%C4%B1)
    - [Left Margin ve Padding](https://github.com/Mtemizce/CssColors/blob/master/README.md#left-margin-ve-padding-kullan%C4%B1m%C4%B1)
    
-2. [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
+**2.** [CSS Renkler](https://github.com/Mtemizce/CssColors/blob/master/README.md#css-renkler)
    - [Yazı Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#yaz%C4%B1-%C3%96rnek)
    - [Arkaplan Örnek](https://github.com/Mtemizce/CssColors/blob/master/README.md#arkaplan-%C3%96rnek)
    - [Koyu ve açık ton renk uygulaması](https://github.com/Mtemizce/CssColors/blob/master/README.md#koyu-ve-a%C3%A7%C4%B1k-ton-renk-uygulamas%C4%B1)
@@ -19,11 +19,11 @@
 [Css dosyası için tıkla](docs/mar-pad.css)<br>
 Çoğumuz bootstrap gibi css framework kullanma taraftarı olsakta bi yanımız kendi framework hayalini kurar. Bazılarımızda bunun çok zaman alıcı olduğunu düşünerek vazgeçer. Vaktinizi almaması için hazır hali ile css şeklinde paylaştım umarım faydalı olur.
 
-**Verilen sayısal değerler şu şekilde:** 0-5-10-15-20-30-40-50-60
+**Verilen sayısal değerler şu şekilde:** 0-5-10-15-20-30-40-50-60<br>
 4 tip kullanımı mevcut. **Toplam**, **Yatay**, **Dikey** ve **Top**, **Right**, **Bottom** ve **Left** şeklinde ayrı ayrı uygulamalar.<br>
 
 ## **Margin ve Padding Sıfırlama:**
- Margin için:
+ **Margin için sıfırlama şu şekilde:**
  ```
  <div class="mar-0">Margin sıfırlandı</div>
  ```
@@ -36,6 +36,11 @@
  ```
  .mar-0 {margin: 0 auto !important;}
  ```
+ **Padding için sıfırlama şu şekildedir:**
+  ```
+   <div class="pad-0">Padding sıfırlandı</div>
+ ```
+  
 ## **Toplam Margin ve padding kullanımı:**
  ```
  <div class="mar-5">Toplam 5px Margin Uygulandı</div>
